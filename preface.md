@@ -1,6 +1,5 @@
 # Preface
-
-### The Fruits of What We Believe
+## The Fruits of What We Believe
 
 I first encountered William James and *The Varieties of Religious Experience* while exploring near-death experiences, commonly called NDEs. I had become fascinated by accounts of individuals who approached death and returned describing encounters with light, overwhelming love, profound peace, and a sense of belonging to something greater than themselves. Their stories raised questions about consciousness, the possibility of an afterlife, and whether our ordinary understanding of reality captures everything there is to know.
 
